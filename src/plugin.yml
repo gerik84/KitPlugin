@@ -1,0 +1,6 @@
+name: KitSet
+version: 1.0
+main: com.controllers.Main
+commands:
+  kit:
+    description: Set kit pack
